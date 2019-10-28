@@ -11,7 +11,7 @@
   <nav class="navbar navbar-default">
     <div class="container-fluid">
       <div class="navbar-header">
-        <a class="navbar-brand"><img src="OrioleMusic.jpg" alt="Logo" style="width:50px;height:50px;border:1;"</a>
+        <a class="navbar-brand"><img src="images/OrioleMusic.jpg" alt="Logo" style="width:50px;height:50px;border:1;"</a>
       </div>
       <h1 href="#default" class="center" valighn="bottom">NFDL Music Programs</a></h1>
     </div>
@@ -33,12 +33,12 @@
 <div class="container-fluid">
 	<div class="row">
     <div class="col-md-6">
-    <a href="http://www.nfdlschools.org/" target="_blank"><img src="Oriole.jpg" class="img-responsive pull-left" alt="Oriole" style="width:50px;height:50px;border:2;">
+    <a href="http://www.nfdlschools.org/" target="_blank"><img src="images/Oriole.jpg" class="img-responsive pull-left" alt="Oriole" style="width:50px;height:50px;border:2;">
       <h3>NFDL School Website</h3></a>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan odio sit amet leo ornare porttitor. Aenean consectetur, Curabitur viverra imperdiet elit et gravida. In in fermentum erat. Phasellus eu sem ut odio ullamcorper blandit. Suspendisse potenti. Suspendisse a augue in tellus pulvinar ultricies. Mauris porttitor malesuada rutrum. Cras non neque at nisi tincidunt vestibulum at at purus.</p>
     </div>
 		<div class="col-md-6">
-        <a href="http://www.musictechteacher.com/music_quizzes/music_quizzes.htm" target="_blank"><img src="MusicSymbol.png" class="img-responsive pull-left" alt="Test Your Music Knowledge" style="width:50px;height:50px;border:2;">
+        <a href="http://www.musictechteacher.com/music_quizzes/music_quizzes.htm" target="_blank"><img src="images/MusicSymbol.png" class="img-responsive pull-left" alt="Test Your Music Knowledge" style="width:50px;height:50px;border:2;">
       <h3>Test Your Music Knowledge</h3></a>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan odio sit amet leo ornare porttitor. Aenean consectetur, Curabitur viverra imperdiet elit et gravida. In in fermentum erat. Phasellus eu sem ut odio ullamcorper blandit. Suspendisse potenti. Suspendisse a augue in tellus pulvinar ultricies. Mauris porttitor malesuada rutrum. Cras non neque at nisi tincidunt vestibulum at at purus.</p>
 		</div>
@@ -47,12 +47,12 @@
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-6">
-    <a href="https://www.facebook.com/nfdl.schools/" target="_blank"><img src="facebook.png" class="img-responsive pull-left" alt="Facebook" style="width:50px;height:50px;border:2;">
+    <a href="https://www.facebook.com/nfdl.schools/" target="_blank"><img src="images/facebook.png" class="img-responsive pull-left" alt="Facebook" style="width:50px;height:50px;border:2;">
       <h3>NFDL School Facebook</h3></a>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan odio sit amet leo ornare porttitor. Aenean consectetur, Curabitur viverra imperdiet elit et gravida. In in fermentum erat. Phasellus eu sem ut odio ullamcorper blandit. Suspendisse potenti. Suspendisse a augue in tellus pulvinar ultricies. Mauris porttitor malesuada rutrum. Cras non neque at nisi tincidunt vestibulum at at purus.</p>
 		</div>
     <div class="col-md-6">
-      <a href="https://nafme.org/20-important-benefits-of-music-in-our-schools/" target="_blank"><img src="Benefits.jpg" class="img-responsive pull-left" alt="MusicBenefits" style="width:50px;height:50px;border:2;">
+      <a href="https://nafme.org/20-important-benefits-of-music-in-our-schools/" target="_blank"><img src="images/Benefits.jpg" class="img-responsive pull-left" alt="MusicBenefits" style="width:50px;height:50px;border:2;">
       <h3>Music Benefits</h3></a>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan odio sit amet leo ornare porttitor. Aenean consectetur, Curabitur viverra imperdiet elit et gravida. In in fermentum erat. Phasellus eu sem ut odio ullamcorper blandit. Suspendisse potenti. Suspendisse a augue in tellus pulvinar ultricies. Mauris porttitor malesuada rutrum. Cras non neque at nisi tincidunt vestibulum at at purus.</p>
     </div>

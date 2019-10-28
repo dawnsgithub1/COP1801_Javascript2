@@ -4,14 +4,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" href="projectsyles.css">
+  <link rel="stylesheet" href="css/projectsyles.css">
   <title>ContactUs</title>
 </head>
 <body>
   <nav class="navbar navbar-default">
     <div class="container-fluid">
       <div class="navbar-header">
-        <a class="navbar-brand"><img src="OrioleMusic.jpg" alt="Logo" style="width:50px;height:50px;border:1;"</a>
+        <a class="navbar-brand"><img src="images/OrioleMusic.jpg" alt="Logo" style="width:50px;height:50px;border:1;"</a>
       </div>
       <h1 href="#default" class="center" valighn="bottom">NFDL Music Programs</a></h1>
     </div>
@@ -31,8 +31,8 @@
     <h3>NFDL School Music Teacher Contact information</h3>
       <p>
         <?php
-          include 'mod3_config.php';
-          include 'mod3_opendb.php';
+          include 'phpRef/mod3_config.php';
+          include 'phpRef/mod3_opendb.php';
 
           $sql= "SELECT FirstName, LastName, EmailAddress FROM contact LIMIT 10";
           $result = mysqli_query($conn, $sql);
